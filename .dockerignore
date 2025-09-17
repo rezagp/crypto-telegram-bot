@@ -1,0 +1,17 @@
+# Git and IDE files
+.git/
+.gitignore
+.idea/
+.vscode/
+
+# Documentation and local data
+README.md
+.env
+bot.log
+bot_data.pickle
+*.db
+
+# Python specific
+venv/
+__pycache__/
+*.pyc

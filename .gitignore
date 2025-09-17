@@ -1,0 +1,10 @@
+# Dependencies and virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Local data and sensitive files
+.env
+bot.log
+bot_data.pickle
+*.db
