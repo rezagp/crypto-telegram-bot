@@ -38,7 +38,7 @@ This application is containerized and available on Docker Hub. The easiest way t
     TELEGRAM_TOKEN="YOUR_TELEGRAM_TOKEN"
     MONGO_URI="mongodb://your_mongo_user:your_mongo_password@your_mongo_host:27017/"
     DB_NAME="crypto_bot_db"
-    WALLEX_API_KEY="YOUR_API_KEY"
+    API_KEY="YOUR_API_KEY"
     ```
 
 2.  Pull the image from Docker Hub and run it using the `.env` file:
